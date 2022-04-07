@@ -1,5 +1,4 @@
 # OnlineShoppingApp
-<<<<<<< HEAD
 
 **Requirements:**
 
@@ -41,5 +40,4 @@
 - [ ] 4. Add a small "About this app" button in the profile page, that shows a page on click with your copyright details and credits
 **Bonus**
 - [ ] Show a map fragment based on the GPS co-ordinates (Hint: Follow instructions given here) in the user profile
-=======
->>>>>>> d42f3640d38d9dd6be9c74530798827efef26ad7
+
