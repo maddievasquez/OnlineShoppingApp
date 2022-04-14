@@ -1,8 +1,7 @@
-package com.maddie.onlineshoppingapp
+package com.maddie.onlineshoppingapp.activities
 
 import android.annotation.SuppressLint
 import android.content.Intent
-import android.graphics.Typeface
 import android.os.Build
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -10,6 +9,7 @@ import android.os.Handler
 import android.os.Looper
 import android.view.WindowInsets
 import android.view.WindowManager
+import com.maddie.onlineshoppingapp.R
 
 @SuppressLint("CustomSplashScreen")
 class SplashActivity : AppCompatActivity() {
@@ -35,6 +35,7 @@ class SplashActivity : AppCompatActivity() {
         },
             1500
         )
-        val typeface: Typeface = Typeface.createFromAsset(assets, "Monserrat-")
+
     }
+
 }
